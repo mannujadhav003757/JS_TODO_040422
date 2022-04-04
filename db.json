@@ -1,0 +1,10 @@
+{
+  "product": [
+    {
+      "sno": 1,
+      "pname": "jeans",
+      "quantity": 10,
+      "price":2000
+    }
+  ]
+}
